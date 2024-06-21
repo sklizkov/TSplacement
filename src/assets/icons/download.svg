@@ -1,9 +1,0 @@
-<svg viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <g id="Common" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polyline id="Path-2" stroke="currentColor" points="8.5 19.1486128 8.5 23.5 23.5 23.5 23.5 19.1486128"></polyline>
-        <line x1="17.5" y1="8.5" x2="17.5" y2="14.5" id="Line" stroke="currentColor" stroke-linecap="square"></line>
-        <line x1="14.5" y1="8.5" x2="14.5" y2="14.5" id="Line-Copy" stroke="currentColor" stroke-linecap="square"></line>
-        <line x1="14.5" y1="8.5" x2="17.5" y2="8.5" id="Line-2" stroke="currentColor" stroke-linecap="square"></line>
-        <polyline id="Path" stroke="currentColor" points="14.5 14.5 12.4566111 14.5 16 19 19.9103006 14.5 17.5 14.5"></polyline>
-    </g>
-</svg>

@@ -1,6 +1,0 @@
-<svg viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <g id="Common" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="RectangleOutline" x="0" y="0" width="32" height="32"></rect>
-        <rect id="minus" fill="currentColor" transform="translate(16.000000, 16.000000) rotate(90.000000) translate(-16.000000, -16.000000) " x="15" y="10" width="2" height="12"></rect>
-    </g>
-</svg>
