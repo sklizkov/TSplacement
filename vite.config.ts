@@ -10,7 +10,9 @@ export default defineConfig({
     emptyOutDir: true,
   },
 
-  plugins: [react()],
+  plugins: [
+    react(),
+  ],
 
   define: { // > vite-env.d.ts
     __VERSION__: JSON.stringify(pcg.version),
