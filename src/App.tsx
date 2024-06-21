@@ -1,7 +1,9 @@
 import { useTranslation } from 'react-i18next'
+import { useAppStore } from '@/stores/appStore'
 
 export const App = () => {
   const { t } = useTranslation()
+  const stateTest = useAppStore(state => state.stateTest)
 
   return (
     <>
@@ -12,6 +14,7 @@ export const App = () => {
         GitHub
       </a>
       <p>{ t('greeting') }</p>
+      <p>{ stateTest ? ':-)' : ':-(' }</p>
     </>
   );
 };
